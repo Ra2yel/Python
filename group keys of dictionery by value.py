@@ -16,4 +16,4 @@ for k,v in d.items():
         new_d1[v] = [k]
     else:
         new_d1[v] = new_d1[v] + [k]
-print(new_d1
+print(new_d1)
