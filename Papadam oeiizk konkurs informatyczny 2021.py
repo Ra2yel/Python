@@ -1,3 +1,5 @@
+# ile ukrytych słów papadam znajduje się w napisie. Na przykład w napisie:  ppapadaaaamaaapaappaddmppaapadaaaamppaa 
+
 def papadam(wyraz):
     temp = 'papadam'
     count = 0
